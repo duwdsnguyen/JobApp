@@ -193,6 +193,7 @@
                                 <option value="Elasticsearch">Elasticsearch</option>
                                 <option value="Unity">Unity</option>
                                 <option value="Game Development">Game Development</option>
+                                <option value="Design Model">Design Model</option>
                             </select>
                         </div>
 
